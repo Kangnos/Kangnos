@@ -4,3 +4,4 @@
 
 #### My name is Kang Shin Hyeok
 #### My nick_name is Kangnos
+##### I am not love programming but sometimes programming gives me something successful things that make
